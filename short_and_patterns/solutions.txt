@@ -1,0 +1,225 @@
+File: as_2_pn_1_0.trace
+Patterns list 0: F(p & X(p))
+
+File: as_2_pn_1_1.trace
+Patterns list 0: F(q & X(q & X(q)))
+
+File: as_2_pn_1_2.trace
+Patterns list 0: F(q & X(p))
+
+File: as_2_pn_2_0.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(p & X(q & X(p)))
+
+File: as_2_pn_2_1.trace
+Patterns list 0: F(p & X(p & X(p)))
+Patterns list 1: F(p & X(p & X(q)))
+
+File: as_2_pn_2_2.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(p & X(q))
+
+File: as_2_pn_3_0.trace
+Patterns list 0: F(q & X(q))
+Patterns list 1: F(q & X(p))
+Patterns list 2: F(p & X(q))
+
+File: as_2_pn_3_1.trace
+Patterns list 0: F(p & X(p & X(p)))
+Patterns list 1: F(q & X(q & X(p)))
+Patterns list 2: F(p & X(q & X(p)))
+
+File: as_2_pn_3_2.trace
+Patterns list 0: F(q & X(q & X(p)))
+Patterns list 1: F(p & X(p))
+Patterns list 2: F(p & X(q & X(p)))
+
+File: as_2_pn_4_0.trace
+Patterns list 0: F(p & X(q))
+Patterns list 1: F(p & X(p & X(q)))
+Patterns list 2: F(q & X(q & X(q)))
+Patterns list 3: F(q & X(q))
+
+File: as_2_pn_4_1.trace
+Patterns list 0: F(p & X(p))
+Patterns list 1: F(p & X(p & X(q)))
+Patterns list 2: F(p & X(q & X(q)))
+Patterns list 3: F(q & X(p))
+
+File: as_2_pn_4_2.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(p & X(q & X(p)))
+Patterns list 2: F(p & X(p & X(p)))
+Patterns list 3: F(q & X(q))
+
+File: as_2_pn_5_0.trace
+Patterns list 0: F(p & X(p & X(q)))
+Patterns list 1: F(q & X(p))
+Patterns list 2: F(p & X(q))
+Patterns list 3: F(q & X(q & X(q)))
+Patterns list 4: F(p & X(p))
+
+File: as_2_pn_5_1.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(q & X(q))
+Patterns list 2: F(q & X(q & X(q)))
+Patterns list 3: F(p & X(p & X(p)))
+Patterns list 4: F(p & X(q))
+
+File: as_2_pn_5_2.trace
+Patterns list 0: F(p & X(p & X(p)))
+Patterns list 1: F(p & X(q))
+Patterns list 2: F(p & X(q & X(q)))
+Patterns list 3: F(p & X(p))
+Patterns list 4: F(q & X(p))
+
+File: as_3_pn_1_0.trace
+Patterns list 0: F(q & X(r))
+
+File: as_3_pn_1_1.trace
+Patterns list 0: F(q & X(p))
+
+File: as_3_pn_1_2.trace
+Patterns list 0: F(q & X(q & X(p)))
+
+File: as_3_pn_2_0.trace
+Patterns list 0: F(p & X(r))
+Patterns list 1: F(r & X(q))
+
+File: as_3_pn_2_1.trace
+Patterns list 0: F(q & X(q))
+Patterns list 1: F(q & X(q & X(p)))
+
+File: as_3_pn_2_2.trace
+Patterns list 0: F(p & X(p))
+Patterns list 1: F(r & X(r))
+
+File: as_3_pn_3_0.trace
+Patterns list 0: F(r & X(r & X(q)))
+Patterns list 1: F(q & X(p & X(r)))
+Patterns list 2: F(r & X(q & X(r)))
+
+File: as_3_pn_3_1.trace
+Patterns list 0: F(q & X(p & X(p)))
+Patterns list 1: F(r & X(q & X(q)))
+Patterns list 2: F(p & X(p))
+
+File: as_3_pn_3_2.trace
+Patterns list 0: F(p & X(q & X(q)))
+Patterns list 1: F(r & X(p & X(r)))
+Patterns list 2: F(q & X(p))
+
+File: as_3_pn_4_0.trace
+Patterns list 0: F(r & X(r))
+Patterns list 1: F(r & X(r & X(q)))
+Patterns list 2: F(q & X(q))
+Patterns list 3: F(p & X(r & X(q)))
+
+File: as_3_pn_4_1.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(q & X(p & X(r)))
+Patterns list 2: F(p & X(r))
+Patterns list 3: F(q & X(q & X(q)))
+
+File: as_3_pn_4_2.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(r & X(r))
+Patterns list 2: F(q & X(q))
+Patterns list 3: F(p & X(r))
+
+File: as_3_pn_5_0.trace
+Patterns list 0: F(q & X(r & X(r)))
+Patterns list 1: F(p & X(p))
+Patterns list 2: F(p & X(q & X(p)))
+Patterns list 3: F(r & X(q))
+Patterns list 4: F(p & X(r & X(r)))
+
+File: as_3_pn_5_1.trace
+Patterns list 0: F(p & X(r))
+Patterns list 1: F(r & X(p))
+Patterns list 2: F(p & X(q))
+Patterns list 3: F(r & X(q))
+Patterns list 4: F(q & X(q & X(q)))
+
+File: as_3_pn_5_2.trace
+Patterns list 0: F(q & X(r))
+Patterns list 1: F(q & X(p))
+Patterns list 2: F(r & X(q))
+Patterns list 3: F(r & X(r))
+Patterns list 4: F(p & X(p & X(q)))
+
+File: as_4_pn_1_0.trace
+Patterns list 0: F(p & X(r))
+
+File: as_4_pn_1_1.trace
+Patterns list 0: F(s & X(q))
+
+File: as_4_pn_1_2.trace
+Patterns list 0: F(p & X(q))
+
+File: as_4_pn_2_0.trace
+Patterns list 0: F(p & X(s & X(p)))
+Patterns list 1: F(p & X(q))
+
+File: as_4_pn_2_1.trace
+Patterns list 0: F(q & X(s & X(p)))
+Patterns list 1: F(q & X(r))
+
+File: as_4_pn_2_2.trace
+Patterns list 0: F(q & X(r & X(r)))
+Patterns list 1: F(q & X(p & X(p)))
+
+File: as_4_pn_3_0.trace
+Patterns list 0: F(p & X(p & X(p)))
+Patterns list 1: F(q & X(p))
+Patterns list 2: F(r & X(r & X(q)))
+
+File: as_4_pn_3_1.trace
+Patterns list 0: F(p & X(s & X(p)))
+Patterns list 1: F(q & X(s))
+Patterns list 2: F(r & X(q))
+
+File: as_4_pn_3_2.trace
+Patterns list 0: F(p & X(p))
+Patterns list 1: F(r & X(s))
+Patterns list 2: F(s & X(q))
+
+File: as_4_pn_4_0.trace
+Patterns list 0: F(r & X(r))
+Patterns list 1: F(p & X(s & X(r)))
+Patterns list 2: F(s & X(q))
+Patterns list 3: F(p & X(q))
+
+File: as_4_pn_4_1.trace
+Patterns list 0: F(r & X(q))
+Patterns list 1: F(p & X(r))
+Patterns list 2: F(q & X(q & X(q)))
+Patterns list 3: F(r & X(p))
+
+File: as_4_pn_4_2.trace
+Patterns list 0: F(p & X(q))
+Patterns list 1: F(q & X(q))
+Patterns list 2: F(s & X(q))
+Patterns list 3: F(r & X(s))
+
+File: as_4_pn_5_0.trace
+Patterns list 0: F(q & X(p))
+Patterns list 1: F(r & X(s))
+Patterns list 2: F(s & X(p))
+Patterns list 3: F(s & X(s))
+Patterns list 4: F(q & X(s))
+
+File: as_4_pn_5_1.trace
+Patterns list 0: F(r & X(p & X(s)))
+Patterns list 1: F(q & X(p & X(p)))
+Patterns list 2: F(p & X(p & X(q)))
+Patterns list 3: F(q & X(s & X(s)))
+Patterns list 4: F(p & X(r & X(q)))
+
+File: as_4_pn_5_2.trace
+Patterns list 0: F(q & X(q & X(s)))
+Patterns list 1: F(p & X(p))
+Patterns list 2: F(r & X(r & X(s)))
+Patterns list 3: F(s & X(s & X(s)))
+Patterns list 4: F(s & X(q))
+
